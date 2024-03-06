@@ -1,27 +1,59 @@
-# LandingPage
+🎉 **Bem-vindo a Landing page com Angular 17** 🚀
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
+Este projeto foi desenvolvido com Angular 17 com a finalidade de identificar as principais diferenças de versão .
 
-## Development server
+## ℹ️ Sobre o Projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+O projeto é uma SPA (Single Page Application) simples que permite que todas as informações estejam em uma unica página, facilitando a visualização do usuário 
+Foi desenvolvido com as seguintes tecnologias:
 
-## Code scaffolding
+- Angular 17, 
+- JavaScript 
+- TypeScript, 
+- SASS, 
+- HTML 5,
+- CSS 3,
+- Consumo de API Rest.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Executando o Projeto
 
-## Running unit tests
+Siga as instruções abaixo para executar o projeto em seu ambiente local:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. **Clone o repositório:**
 
-## Running end-to-end tests
+   ```
+   git clone https://github.com/anamsilva1981/landing-page.git
+   ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2. **Navegue até o diretório do projeto:**
 
-## Further help
+   ```
+   cd landing-page
+   ```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+3. **Acesse a aplicação:**
+
+   Abra o seu navegador e digite o seguinte endereço:
+
+   ```
+   http://localhost:4000
+   ```
+
+   Agora você pode começar a utilizar a aplicação, criar, visualizar, atualizar e excluir tarefas.
+
+4. **Instale as dependências:**
+
+   ```
+   npm install
+    ```
+
+5. **Rode o projeto:**
+
+   ```
+   ng s
+    ```
+
+

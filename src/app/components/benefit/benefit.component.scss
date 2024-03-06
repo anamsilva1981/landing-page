@@ -1,0 +1,29 @@
+@import "../../../color-variables.scss";
+
+.benefit-card {
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+
+    // // flex-direction: column;
+    // max-width: 100%;
+    
+    .team {
+        padding: 40px 70px;
+        
+        h5 {
+            font-size: 24px;
+            font-weight: 600;
+            margin: 0;
+            color: $primary-text;
+        }
+        
+        p {
+            width: 90%;
+            font-size: 14px;
+            font-weight: 400;
+            color: $secondary-text;
+        }
+    }
+}
